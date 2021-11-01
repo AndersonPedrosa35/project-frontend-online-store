@@ -1,6 +1,6 @@
 # Boas vindas ao repositório do projeto de Front-End Online Store!
 
-Esse projeto foi feito como comprovação dos conhecimentos adquiridos no curso da Trybe, foi feito em grupo, um projeto para listar vários filmes ou procurar por algum especÍfico.
+Esse projeto foi feito como comprovação dos conhecimentos adquiridos no curso da Trybe, foi feito em grupo, um projeto para listar vários produtos ou procurar por algum especÍfico, utilizando a api do mercado livre porque seria mais viável utilizar um banco de dados já pronto e listado.
 
 
 # Sumário
